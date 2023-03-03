@@ -1,4 +1,7 @@
 ---
 title: about
-date: 2023-03-02 14:02:09
+date: 2022-03-02 14:02:09
+
+mathjax: true
+
 ---
